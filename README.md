@@ -1,9 +1,15 @@
 # cuDF: RAPIDS GPU-Accelerated Dataframe Library
-## To view the video
+## Part 1
 * [Click here](https://youtu.be/6KSjp_YXs_4)
 * Click on the image below
 
-[![How does SelectKBest work in Feature Selection?](http://img.youtube.com/vi/6KSjp_YXs_4/0.jpg)](http://www.youtube.com/watch?v=6KSjp_YXs_4)
+[![Part 1](http://img.youtube.com/vi/6KSjp_YXs_4/0.jpg)](http://www.youtube.com/watch?v=6KSjp_YXs_4)
+
+## Part 2
+* [Click here](https://youtu.be/ZRIjLzsZ2Pc)
+* Click on the image below
+
+[![Part 2](http://img.youtube.com/vi/ZRIjLzsZ2Pc/0.jpg)](http://www.youtube.com/watch?v=ZRIjLzsZ2Pc)
 
 ## Follow Me
 <a href="https://twitter.com/_bhaveshbhatt" target="_blank"><img class="ai-subscribed-social-icon" src="https://bhattbhavesh91.github.io/assets/images/tw.png" width="30"></a>
